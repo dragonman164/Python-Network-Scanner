@@ -5,4 +5,4 @@ Scan any Networks around you
 Scapy Package: Install it using the command "pip install scapy"
 
 # Usage
-1. sudo python network_scanner.py --target <Your-Gateway-IP>
+sudo python network_scanner.py --target "Your-Gateway-IP"
